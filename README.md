@@ -45,6 +45,18 @@ The system detects faces through a webcam, recognizes known individuals using a 
 
 ---
 
+##  Project Demo
+
+### Live Face Recognition
+![Live Recognition](screenshots/live_recognition.png)
+
+### Unknown Face Detection
+![Unknown Face](screenshots/unknown_face.png)
+
+### Attendance Output
+![Attendance Output](screenshots/attendance_output.png)
+
+
 ##  Technologies Used
 
 - **Programming Language:** Python  
@@ -95,5 +107,6 @@ Tarun Kumar
 B.Tech Computer Science & Engineering
 
 Central University of Haryana
+
 
 
