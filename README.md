@@ -73,6 +73,7 @@ python main.py
 python export_to_excel.py
 
 ⚠️ Limitations
+
 1.Performance depends on lighting conditions and camera quality
 
 2.Haar Cascade struggles with extreme face angles
@@ -82,11 +83,16 @@ python export_to_excel.py
 4.System is designed for controlled environments, not large-scale deployment
 
 📌 Notes
+
 1.Face image datasets are generated dynamically and are not uploaded to this repository for privacy reasons
 
 2.Attendance files are created automatically during runtime
 
 👤 Author
+
 Tarun Kumar
+
 B.Tech Computer Science & Engineering
+
 Central University of Haryana
+
